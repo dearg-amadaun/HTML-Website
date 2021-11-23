@@ -1,2 +1,2 @@
-# mini-project-website
-initial mini project for basic landing page
+#HTML Website
+My earliest webpage built using basic html and css for practice.
